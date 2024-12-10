@@ -1,6 +1,6 @@
-name: "Hub Mirror Action."
+name: "brinkqiang-hub-mirror-action"
 description: "Mirror the organization repos between hub (github/gitee)."
-author: "yikun"
+author: "brinkqiang"
 branding:
   icon: "upload-cloud"
   color: "gray-dark"
